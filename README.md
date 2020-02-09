@@ -1,5 +1,9 @@
 ![crab pet](https://i.imgur.com/LbZJgmm.gif)
 
+# *IMPORTANT MESSAGE*
+
+This is my solution to rustlings exercises. Source code in `exercises` are therefore modified.
+
 # rustlings 🦀❤️
 
 Greetings and welcome to `rustlings`. This project contains small exercises to get you used to reading and writing Rust code. This includes reading and responding to compiler messages!
